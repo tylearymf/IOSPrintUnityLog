@@ -1,2 +1,2 @@
 # IOSPrintUnityLog
-IOS真机输出UnityLog
+UnityLog转成用NsLog输出（一个Unity测试小工程）
